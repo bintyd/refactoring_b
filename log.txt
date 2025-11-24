@@ -1,8 +1,4 @@
 63697c9 (HEAD -> main, origin/main, origin/HEAD) Task 1.1
 a1551ff Initial commit
-
 ccf80de (HEAD -> main, origin/main, origin/HEAD) Task 2.1
-e4eafbc Task 2.1
-2aceade Task 1.2
-63697c9 Task 1.1
-a1551ff Initial commit
+c651435 (HEAD -> main) Task 2.2
